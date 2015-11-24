@@ -3,10 +3,7 @@ crypto-details
 
 Freddy Martinez (Updated: May 19, 2015)
 
-Signal available upon request
-
-Fingerprint: 
-`05 6b d9 45 99 fe e5 24 94 24 c1 1a 69 16 25 d1 b9 12 f8 05 8c eb af 2a ae b9 fb 8c 1d 36 93 48 70`
+Signal/Redphone available upon request
 
 Jabber (XMPP) with OTR (Off-the-Record messaging)
 
