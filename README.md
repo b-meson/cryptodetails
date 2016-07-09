@@ -6,7 +6,7 @@ Freddy Martinez (Updated: May 19, 2015)
 Signal available upon request
 
 Fingerprint: 
-`05 6b d9 45 99 fe e5 24 94 24 c1 1a 69 16 25 d1 b9 12 f8 05 8c eb af 2a ae b9 fb 8c 1d 36 93 48 70`
+`05 cc 84 e1 e1 b4 5c d9 80 d5 c3 13 33 02 77 9b cb 61 53 d8 10 bb d3 c7 25 9b 92 58 ef a5 d9 fa 43`
 
 Jabber (XMPP) with OTR (Off-the-Record messaging)
 
