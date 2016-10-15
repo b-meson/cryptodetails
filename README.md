@@ -1,12 +1,11 @@
 crypto-details
 ==============
 
-Freddy Martinez (Updated: May 19, 2015)
+Freddy Martinez (Updated: October 14, 2016)
 
 Signal available upon request
 
-Fingerprint: 
-`05 6b d9 45 99 fe e5 24 94 24 c1 1a 69 16 25 d1 b9 12 f8 05 8c eb af 2a ae b9 fb 8c 1d 36 93 48 70`
+Fingerprint (Rotated as of October 14). Due to a change in how Signal uses fingerprints in the 2.6 release, we can't copy the current safety numbers. **to fix**
 
 Jabber (XMPP) with OTR (Off-the-Record messaging)
 
