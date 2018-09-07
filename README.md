@@ -5,7 +5,6 @@ Freddy Martinez (Updated: October 14, 2016)
 
 Signal available upon request
 
-Fingerprint (Rotated as of October 14). Due to a change in how Signal uses fingerprints in the 2.6 release, we can't copy the current safety numbers. **to fix**
 
 Jabber (XMPP) with OTR (Off-the-Record messaging)
 
