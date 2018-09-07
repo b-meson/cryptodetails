@@ -16,9 +16,8 @@ Short ID: `2A822EF5`
 Key ID: `F3195C292A822EF5`
 
 GPG Fingerprint: `A712 B1DB 9076 2931 4565 0DA6 34FB 06F1 E80A 64A1`
-		  
 
-Public Key Server -- Get ``0x34fb06f1e80a64a1''
+Public Key Server -- Get ``0x34fb06f1e80a64a1``
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -74,4 +73,3 @@ M9SdCF54zFhYcSQJKVny+dORRH9tyg==
 -----END PGP PUBLIC KEY BLOCK-----
 
 ```
-
